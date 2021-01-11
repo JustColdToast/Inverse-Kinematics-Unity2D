@@ -1,4 +1,4 @@
-# Unity-Inverse-Kinematics
+# Inverse-Kinematics-Unity2D
  An exploration of the Inverse Kinematics system provided in the Unity Engine, with a walk cycle for a 2D character i made.
  [Code](https://github.com/JustColdToast/Inverse-Kinematics-Unity2D/tree/main/Assets/myAssets/Scripts) can be found under Scripts in Assets
  
