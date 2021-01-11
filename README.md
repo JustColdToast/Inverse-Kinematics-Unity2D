@@ -6,4 +6,6 @@
   <img src="https://github.com/JustColdToast/Inverse-Kinematics-Unity2D/blob/main/Sample%20Images/Skeleton.png">
 </p>
  
- ![Walk Cycle](https://github.com/JustColdToast/Inverse-Kinematics-Unity2D/blob/main/Sample%20Images/Walk_cycle.gif?raw=true)
+ <p align="center">
+  <img src="https://github.com/JustColdToast/Inverse-Kinematics-Unity2D/blob/main/Sample%20Images/Walk_cycle.gif?raw=true">
+</p>
